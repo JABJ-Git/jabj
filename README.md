@@ -1,8 +1,8 @@
 # jabj
-Dentro de este proyecto encontrara dos carpetas:
+Dentro de este proyecto encontrara una carpetas:
 
-1. Doc : Contiene un archivo donde se describen un par de consultas realizadas en el DevOps Challenge - Clip!
-2. Layers: Muestra toda la infraestructura de la solucion basada en Terraform
+1. Layers: Muestra toda la infraestructura de la solucion basada en Terraform
 
+En el raiz se encuentra el documento .pdf con las consultas de DevOps Challenge - Clip
 
 SALUDOS
